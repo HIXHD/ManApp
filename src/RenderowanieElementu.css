@@ -1,0 +1,13 @@
+h1{
+    font-size: calc(1000% + 2vmin);
+    font-family: sans-serif;
+    color: #00eeff;
+}
+.BobBox{
+    min-height: 100vh;
+    background-color: #282c34;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
